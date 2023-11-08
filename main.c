@@ -10,12 +10,12 @@ void delay(int secs) {
 int main() {
   puts("Hola Mi nombre es Ismael");
   puts("Estoy practicando el uso de GIT");
-  puts("Estamos trabajando remotois");
+  puts("Estamos trabajando remotos");
   return 0;
 }
 
 /*
-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
+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
 
 */
 
