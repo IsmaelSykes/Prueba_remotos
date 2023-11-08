@@ -9,6 +9,7 @@ void delay(int secs) {
 
 int main() {
   puts("Hola Mi nombre es Ismael");
+  puts("Estoy practicando el uso de GIT");
   return 0;
 }
 
